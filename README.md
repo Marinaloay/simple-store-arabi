@@ -1,1 +1,1 @@
-# simple-store-arabic
+# simple-store-aranic
